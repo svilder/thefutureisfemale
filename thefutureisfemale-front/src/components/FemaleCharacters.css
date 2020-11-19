@@ -1,0 +1,12 @@
+.card {
+  background-color: rgba(17, 75, 85, 0.315);
+  width: 50vw;
+  padding: 5%;
+  color: #F7F3E3;
+  border-radius: 7px;
+  font-family: 'Xanh Mono', monospace;
+}
+/* 
+.card p {
+  overflow: scroll;
+} */

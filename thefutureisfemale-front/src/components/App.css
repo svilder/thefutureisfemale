@@ -24,3 +24,10 @@ body {
   top: 10%;
   right: 10%;
 }
+
+.container {
+  z-index: 1;
+  position: absolute;
+  top: 18%;
+  left: 12%;
+}
