@@ -1,0 +1,26 @@
+* { margin: 0; padding: 0; }
+
+body {
+  height: 100vh;
+  background: -webkit-linear-gradient(top, #030F11, #114B55);
+}
+
+/* palette : https://coolors.co/186877-43543b-56242b-1b150e-f7f3e3*/
+
+.stars {
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  height: 100%;
+  width: 100%;
+}
+
+.moon {
+  z-index: 2;
+  position: absolute;
+  top: 10%;
+  right: 10%;
+}
