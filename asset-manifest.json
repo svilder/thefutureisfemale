@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/static/js/main.f4410f77.chunk.js",
-    "main.js.map": "/static/js/main.f4410f77.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1aebc6e1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1aebc6e1.js.map",
-    "static/js/2.f9c976a5.chunk.js": "/static/js/2.f9c976a5.chunk.js",
-    "static/js/2.f9c976a5.chunk.js.map": "/static/js/2.f9c976a5.chunk.js.map",
-    "static/js/3.debf7b3b.chunk.js": "/static/js/3.debf7b3b.chunk.js",
-    "static/js/3.debf7b3b.chunk.js.map": "/static/js/3.debf7b3b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.f9c976a5.chunk.js.LICENSE.txt": "/static/js/2.f9c976a5.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
+    "main.css": "/thefutureisfemale/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/thefutureisfemale/static/js/main.f4410f77.chunk.js",
+    "main.js.map": "/thefutureisfemale/static/js/main.f4410f77.chunk.js.map",
+    "runtime-main.js": "/thefutureisfemale/static/js/runtime-main.932ac002.js",
+    "runtime-main.js.map": "/thefutureisfemale/static/js/runtime-main.932ac002.js.map",
+    "static/js/2.f9c976a5.chunk.js": "/thefutureisfemale/static/js/2.f9c976a5.chunk.js",
+    "static/js/2.f9c976a5.chunk.js.map": "/thefutureisfemale/static/js/2.f9c976a5.chunk.js.map",
+    "static/js/3.debf7b3b.chunk.js": "/thefutureisfemale/static/js/3.debf7b3b.chunk.js",
+    "static/js/3.debf7b3b.chunk.js.map": "/thefutureisfemale/static/js/3.debf7b3b.chunk.js.map",
+    "index.html": "/thefutureisfemale/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/thefutureisfemale/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.f9c976a5.chunk.js.LICENSE.txt": "/thefutureisfemale/static/js/2.f9c976a5.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/thefutureisfemale/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1aebc6e1.js",
+    "static/js/runtime-main.932ac002.js",
     "static/js/2.f9c976a5.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.f4410f77.chunk.js"
