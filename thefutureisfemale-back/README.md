@@ -1,3 +1,5 @@
+http://localhost:3000/api/v1/female_characters
+
 ## Rails back for thefutureisfemale app :
 
 ### `rails s`
