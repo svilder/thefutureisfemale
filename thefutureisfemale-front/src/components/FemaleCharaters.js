@@ -11,14 +11,17 @@ const FemaleCharacters = () => {
       <p><strong>Sophie</strong> - dans "Les Malheurs de Sophie"</p>
       <p><strong>Antigone</strong> - d'Anouilh</p>
       <p><strong>Julia</strong> - dans "1984"</p>
-      <p><strong>Mafalda</strong> -</p>
+      <p><strong>Mafalda</strong></p>
       <p><strong>Fantine</strong> - dans les "Les Misérables"</p>
       <p><strong>Kay Scarpetta</strong> - de Patricia Cornwell</p>
       <p><strong>Miss Courtney</strong> - dans "À la croisée des Mondes"</p>
       <p><strong>Ciri et Yennefer</strong> - dans "Sorceleur"</p>
+      <p><strong>Arya et Cersei</strong> - dans "Le Trône de fer"</p>
       <p><strong>Médée</strong> - d'Euripide</p>
       <p><strong>Nynaeve</strong> - dans "La Roue du Temps"</p>
       <p><strong>Esmé Ciredutemps</strong> - de Pratchett</p>
+      <p><strong>Polgara</strong> - dans la "Belgariade"</p>
+      <p><strong>Mélusine</strong></p>
 
     </div>
   )
