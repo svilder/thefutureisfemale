@@ -1,0 +1,2 @@
+.card{background-color:rgba(247,243,227,.027);width:50vw;padding:5%;color:#f7f3e3;border-radius:7px;font-family:"Xanh Mono",monospace}*{margin:0;padding:0}body{height:100vh;background:-webkit-linear-gradient(top,#030f11,#114b55)}.stars{z-index:1;top:0;left:0;height:100vh;width:100vw;height:100%;width:100%}.moon,.stars{position:absolute}.moon{z-index:2;top:10%;right:10%}.container{z-index:1;position:absolute;top:18%;left:12%}.container h2{color:#f7f3e3;font-family:"Xanh Mono",monospace}
+/*# sourceMappingURL=main.472f542e.chunk.css.map */
