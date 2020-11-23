@@ -31,3 +31,8 @@ body {
   top: 18%;
   left: 12%;
 }
+
+.container h2 {
+  color: #F7F3E3;
+  font-family: 'Xanh Mono', monospace;
+}

@@ -8,6 +8,7 @@ const App = () => {
     <div>
       <Sky />
       <div className="container">
+        <h2>Personnages féminins dans les livres qui nous ont marqués</h2>
         <FemaleCharacters />
       </div>
       <svg height="100" width="100" className="moon">
