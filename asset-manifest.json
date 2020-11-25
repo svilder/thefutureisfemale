@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/thefutureisfemale/static/css/main.472f542e.chunk.css",
-    "main.js": "/thefutureisfemale/static/js/main.f147adec.chunk.js",
-    "main.js.map": "/thefutureisfemale/static/js/main.f147adec.chunk.js.map",
+    "main.js": "/thefutureisfemale/static/js/main.24035550.chunk.js",
+    "main.js.map": "/thefutureisfemale/static/js/main.24035550.chunk.js.map",
     "runtime-main.js": "/thefutureisfemale/static/js/runtime-main.eeb66eaa.js",
     "runtime-main.js.map": "/thefutureisfemale/static/js/runtime-main.eeb66eaa.js.map",
     "static/js/2.f9c976a5.chunk.js": "/thefutureisfemale/static/js/2.f9c976a5.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.eeb66eaa.js",
     "static/js/2.f9c976a5.chunk.js",
     "static/css/main.472f542e.chunk.css",
-    "static/js/main.f147adec.chunk.js"
+    "static/js/main.24035550.chunk.js"
   ]
 }
