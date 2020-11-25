@@ -22,7 +22,8 @@ const FemaleCharacters = () => {
       <p><strong>Esmé Ciredutemps</strong> - de Pratchett</p>
       <p><strong>Polgara</strong> - dans la "Belgariade"</p>
       <p><strong>Mélusine</strong></p>
-
+      <p><strong>Nelly Bly</strong> - dans "Dix jours dans un asile"</p>
+      <p><strong>Clémentine Delait</strong> - dans "Madame Delait, la femme à barbre"</p>
     </div>
   )
 }
