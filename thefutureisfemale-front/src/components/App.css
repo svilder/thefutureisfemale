@@ -28,11 +28,12 @@ body {
 .container {
   z-index: 1;
   position: absolute;
-  top: 18%;
+  top: 10%;
   left: 12%;
 }
 
 .container h2 {
   color: #F7F3E3;
   font-family: 'Xanh Mono', monospace;
+  padding: 2%;
 }
