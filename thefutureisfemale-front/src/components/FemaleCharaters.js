@@ -24,6 +24,29 @@ const FemaleCharacters = () => {
       <p><strong>Mélusine</strong></p>
       <p><strong>Nelly Bly</strong> - dans "Dix jours dans un asile"</p>
       <p><strong>Clémentine Delait</strong> - dans "Madame Delait, la femme à barbre"</p>
+      <p><strong>Lyra Belacqua</strong> - dans "À la croisée des Mondes"</p>
+      <p><strong>Elli H. Radinger</strong> - dans sa biographie "la sagesse des loups"</p>
+      <p><strong>Fifi Brindacier</strong></p>
+      <p><strong>Anna Karenine</strong></p>
+      <p><strong>Yoko Tsuno</strong></p>
+      <p><strong>Sorcière camomille</strong></p>
+      <p><strong>Madame bovary</strong></p>
+      <p><strong>Jeanne</strong> - dans "Une vie" de Maupassant</p>
+      <p><strong>Hermione</strong> - dans "Harry Potter"</p>
+      <p><strong>Alice</strong> - dans "Alice au pays des merveilles"</p>
+      <p><strong>Miss marple</strong> - dans les romans policiers d'Agatha Christie</p>
+      <p><strong>Miss Lemon</strong> - dans "Hercule Poirot"</p>
+      <p><strong>Iseut</strong> - dans "Tristant et Iseut"</p>
+      <p><strong>Sophia Kovalevskaya</strong></p>
+      <p><strong>Antigone</strong></p>
+      <p><strong>Sudie</strong> - de Sara Flanigan</p>
+      <p><strong>May Dodd</strong> - dans "Mille femmes blanches"</p>
+      <p><strong>Maya Angelou</strong> - dans son roman autobiographique "Un billet d'avion pour l'Afrique"</p>
+      <p><strong>Tracy</strong> - dans "Sauvage" de Jamey Bradbury</p>
+      <p><strong>Les héroïnes de Jhumpa Lahiri</strong></p>
+      <p><strong>Les personnages de Jane Austen</strong></p>
+      <p><strong>Les personnages</strong> - dans "Les petites déesses #9" de Francesca Lia Block</p>
+      <p><strong>Anne Frank</strong> - dans son "Journal"</p>
     </div>
   )
 }
