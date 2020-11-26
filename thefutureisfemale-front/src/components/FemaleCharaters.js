@@ -37,7 +37,7 @@ const FemaleCharacters = () => {
       <p><strong>Miss marple</strong> - dans les romans policiers d'Agatha Christie</p>
       <p><strong>Miss Lemon</strong> - dans "Hercule Poirot"</p>
       <p><strong>Iseut</strong> - dans "Tristant et Iseut"</p>
-      <p><strong>Sophia Kovalevskaya</strong></p>
+      <p><strong>Sophia Kovalevskaya</strong>- dans son autobiographie</p>
       <p><strong>Antigone</strong></p>
       <p><strong>Sudie</strong> - de Sara Flanigan</p>
       <p><strong>May Dodd</strong> - dans "Mille femmes blanches"</p>
