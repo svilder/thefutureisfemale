@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/thefutureisfemale/static/css/main.c31fe869.chunk.css",
-    "main.js": "/thefutureisfemale/static/js/main.d96b9618.chunk.js",
-    "main.js.map": "/thefutureisfemale/static/js/main.d96b9618.chunk.js.map",
+    "main.css": "/thefutureisfemale/static/css/main.6f14b02a.chunk.css",
+    "main.js": "/thefutureisfemale/static/js/main.158c8cd8.chunk.js",
+    "main.js.map": "/thefutureisfemale/static/js/main.158c8cd8.chunk.js.map",
     "runtime-main.js": "/thefutureisfemale/static/js/runtime-main.eeb66eaa.js",
     "runtime-main.js.map": "/thefutureisfemale/static/js/runtime-main.eeb66eaa.js.map",
     "static/js/2.f9c976a5.chunk.js": "/thefutureisfemale/static/js/2.f9c976a5.chunk.js",
     "static/js/2.f9c976a5.chunk.js.map": "/thefutureisfemale/static/js/2.f9c976a5.chunk.js.map",
     "index.html": "/thefutureisfemale/index.html",
-    "static/css/main.c31fe869.chunk.css.map": "/thefutureisfemale/static/css/main.c31fe869.chunk.css.map",
+    "static/css/main.6f14b02a.chunk.css.map": "/thefutureisfemale/static/css/main.6f14b02a.chunk.css.map",
     "static/js/2.f9c976a5.chunk.js.LICENSE.txt": "/thefutureisfemale/static/js/2.f9c976a5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eeb66eaa.js",
     "static/js/2.f9c976a5.chunk.js",
-    "static/css/main.c31fe869.chunk.css",
-    "static/js/main.d96b9618.chunk.js"
+    "static/css/main.6f14b02a.chunk.css",
+    "static/js/main.158c8cd8.chunk.js"
   ]
 }
