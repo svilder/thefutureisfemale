@@ -9,3 +9,7 @@
   font-family: 'Xanh Mono', monospace;
   overflow: scroll;
 }
+
+.card a {
+  color: #F7F3E3;
+}
