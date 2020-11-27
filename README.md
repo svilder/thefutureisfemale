@@ -1,3 +1,8 @@
-# thefutureisfemale
+This is just a list of female characters in books that left a strong impression on us
+[Check it](https://svilder.github.io/thefutureisfemale/)
 
-My friends and I are listing the books female characters we appreciated the most or that held a big impression on us.
+
+## React front for thefutureisfemale app :
+
+`yarn start`
+`yarn deploy`
