@@ -30,11 +30,11 @@ const FemaleCharacters = () => {
       <p><strong>Anna Karenine</strong></p>
       <p><strong>Yoko Tsuno</strong></p>
       <p><strong>Sorcière camomille</strong></p>
-      <p><strong>Madame bovary</strong></p>
+      <p><strong>Emma Bovary</strong> - dans "Madame Bovary"</p>
       <p><strong>Jeanne</strong> - dans "Une vie" de Maupassant</p>
       <p><strong>Hermione</strong> - dans "Harry Potter"</p>
       <p><strong>Alice</strong> - dans "Alice au pays des merveilles"</p>
-      <p><strong>Miss marple</strong> - dans les romans policiers d'Agatha Christie</p>
+      <p><strong>Miss Marple</strong> - dans les romans policiers d'Agatha Christie</p>
       <p><strong>Miss Lemon</strong> - dans "Hercule Poirot"</p>
       <p><strong>Iseut</strong> - dans "Tristant et Iseut"</p>
       <p><strong>Sophia Kovalevskaya</strong>- dans son autobiographie</p>
@@ -47,6 +47,26 @@ const FemaleCharacters = () => {
       <p><strong>Les personnages de Jane Austen</strong></p>
       <p><strong>Les personnages</strong> - dans "Les petites déesses #9" de Francesca Lia Block</p>
       <p><strong>Anne Frank</strong> - dans son "Journal"</p>
+      <p><strong>Àntonia</strong> - dans "Mon Àntonia" de Willa Cather</p>
+      <p><strong>Ayla</strong> - dans "Les enfants de la Terre"</p>
+      <p><strong>La psy</strong> - dans "L'enfant bleu" de Henry Bauchau</p>
+      <p><strong>Sheeter</strong> - dans "la couleur des sentiments"</p>
+      <p><strong>La mère</strong> - dans "Jamais sans ma fille"</p>
+      <p><strong>L'héroïne</strong> - dans "la femme feuille"</p>
+      <p><strong>Simone Veil</strong> - dans "Une vie"</p>
+      <p><strong>Malala</strong> - dans "Moi, Malala"</p>
+      <p><strong>Smita</strong> - dans "La tresse"</p>
+      <p><strong>La mère de Gabriel</strong> - dans "Petit Pays"</p>
+      <p><strong>Ortie</strong> - dans "la Citadelle des ombres"</p>
+      <p><strong>Althéa</strong> - dans "les Aventuriers de la mer"</p>
+      <p><strong>L'enfant</strong> - dans "L'Amant"</p>
+      <p><strong>Constance</strong> - dans "Lady Chatterley's lover"</p>
+      <p><strong></strong></p>
+      <p><strong></strong></p>
+      <p><strong></strong></p>
+      <p><strong></strong></p>
+      <p><strong></strong></p>
+      <p><strong></strong></p>
     </div>
   )
 }
