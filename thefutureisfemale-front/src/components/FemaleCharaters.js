@@ -60,10 +60,10 @@ const FemaleCharacters = () => {
       <p><strong>Althéa</strong> - dans <a target="_blank" href="https://www.babelio.com/livres/Hobb-Les-Aventuriers-de-la-mer-Tome-1--Le-vaisseau-mag/104388">"les Aventuriers de la mer"</a></p>
       <p><strong>L'enfant</strong> - dans <a target="_blank" href="https://www.babelio.com/livres/Duras-Lamant/5772">"L'Amant"</a></p>
       <p><strong>Constance</strong> - dans <a target="_blank" href="https://www.babelio.com/livres/Lawrence-LAmant-de-Lady-Chatterley/1644">"Lady Chatterley's lover"</a></p>
-      <p><strong></strong></p>
-      <p><strong></strong></p>
-      <p><strong></strong></p>
-      <p><strong></strong></p>
+      <p><strong>Elisabeth Harmon</strong> - dans <a href="https://www.babelio.com/livres/Tevis-Le-jeu-de-la-dame/121171">The Queen's Gambit</a> de Walter Tevis</p>
+      <p><strong>June Osborne</strong> - dans <a href="https://www.babelio.com/livres/Atwood-La-Servante-ecarlate/7074">The Handmaid's Tale</a> de Margaret Atwood</p>
+      <p><strong>Elise</strong> - dans la pièce de théâtre <a href="https://www.theatre-contemporain.net/textes/The-Broken-circle-breakdown-Collectif/">The broken circle breakdown featuring the cover-ups of Alabama</a></p>
+      <p><a href="https://www.babelio.com/livres/Shakespeare-Macbeth/4309"><strong>Lady Macbeth</strong></a></p>
       <p><strong></strong></p>
       <p><strong></strong></p>
     </div>
